@@ -5,5 +5,3 @@ CodingBat
 
 http://codingbat.com
 
-===
----
