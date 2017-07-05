@@ -2,7 +2,7 @@
  * appearances of "pi" have been replaced by "3.14".
  */
 public String changePi(String str) {
-    if(str.length() <= 1)
+    if(!str.contains("pi"))
         return str;
           
     if(str.substring(0, 2).equals("pi"))
